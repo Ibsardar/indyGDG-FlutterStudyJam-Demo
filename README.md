@@ -1,7 +1,10 @@
 # indyGDG-FlutterStudyJam-Demo
 Chat App Demo for testing out Flutter
 
+---
+
 Adopted from the youtube user: Tensor Programming
+
 Watch here: https://youtu.be/WwhyaqNtNQY
 
 ### Instructions:
